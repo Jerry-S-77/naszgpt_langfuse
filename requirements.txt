@@ -1,4 +1,4 @@
-openai==1.47.0
-langfuse
-streamlit
-python-dotenv
+openai==1.97.1
+langfuse==2.60.10
+streamlit==1.60.0
+python-dotenv==1.2.4
